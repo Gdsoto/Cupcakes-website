@@ -1,5 +1,5 @@
 # CupCake - Website
-Maquetación de sitio web simple
+Maquetación de sitio web simple - https://gdsoto.github.io/Cupcakes-website/
 
 ## Descripción
 Este proyecto fue desarrollado con las siguientes tecnologias
